@@ -28,7 +28,7 @@
 </head>
 <body>
 <form action="./" id="form1" method="post">
-<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="O/OPXlhQ+9vQWkxevLhS9+k4Dhb5aGBGOPK5dRHRq8r+Zq4JsOQKHUauh4C7e4NoyQRT3EHFdSniGssNycs6OAD9sG7M7SY8/qEZP6BohGQiq4aQQkoOx2M2gXE7cMv7KIW0+dHpfeLaZ23Ee2ru7A=="/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="cpeIg0v+CpUDGBLKV5rM8/uPcZ2HwS61/PiJyX+Nw6GnE7PY2RNzHjFVJntz6j0Q1nVl3iD4JulFd6hcxv0zH21geEUP2VZ7SBZVQiHc+AFdzG9RkmqpUJ6fPv9RE40Sw4Xg2tQR25Qv3SPXi+t0Bg=="/>
 <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="CA0B0334"/>
 <!-------------------------------------------->
 <div class="modal fade" id="myModal">
@@ -364,7 +364,7 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
 <span id="lblStatsAsPerDate"></span></strong><br/>
 <span>You are Visitor Number: </span>
 <strong>
-<span id="lblVisitorNumber">711703</span></strong>
+<span id="lblVisitorNumber">711708</span></strong>
 </div>
 <div class="col-lg-12">
 <small class="text-white">All COVID-19 related Data &amp; Statistics on this site, are being being Provided &amp; Managed by the Health Department, Government of Tripura.</small><br/>
